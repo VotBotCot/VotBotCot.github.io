@@ -1,3 +1,7 @@
+<?php
+header('HTTP/1.1 404 Not Found');
+?>
+
 <title>404 not found</title>
 <link href="css.css" rel="stylesheet" type="text/css">
 <div class="moon"></div>
